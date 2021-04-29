@@ -6,6 +6,9 @@ const about = () => {
       <Head>
         <title>About</title>
       </Head>
+      <main>
+        <h1>About Me</h1>
+      </main>
       <h1>About</h1>
     </div>
   );
